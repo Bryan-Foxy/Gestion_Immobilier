@@ -21,8 +21,15 @@ public class ApiGateway3Application {
 				
 				.route("micro-user", r->r.path("/micro-user/**")
 					   .uri("http://localhost:8280/"))
-				.route("JobMs", r->r.path("/jobs/**")
-						   .uri("http://localhost:8081/"))
+				.route("Gestion Forum", r->r.path("/Gestion Forum/**")
+						   .uri("http://localhost:8082/"))
+				.route("Gestion Reservation", r->r.path("/gestion Reservation/**")
+						.uri("http://localhost:8081/"))
+				.route("Gestion Produit", r->r.path("/gestion Produit/**")
+						.uri("http://localhost:8090/"))
+				.route("micro-service", r->r.path("/micro/**")
+						.uri("http://localhost:8058/"))
+
 				
 				.build();
 				

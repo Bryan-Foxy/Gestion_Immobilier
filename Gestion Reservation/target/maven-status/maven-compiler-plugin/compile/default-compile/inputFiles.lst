@@ -1,0 +1,11 @@
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/MicroApplication.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Service/IReservationService.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Repository/ContratRepository.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Service/ContratService.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/classes/Contrat.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Controller/ContratController.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Service/IContratService.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Controller/ReservationController.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Repository/ReservationRepository.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/classes/Reservation.java
+/Users/armandbryan/Documents/4WIN/1st semester/MicroServices/Gestion_Immobilier-main/Gestion Reservation/src/main/java/com/example/micro/Service/ReservationService.java

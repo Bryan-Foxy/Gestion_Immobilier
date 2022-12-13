@@ -1,0 +1,11 @@
+com/example/micro/classes/Commentaire.class
+com/example/micro/Service/ForumService.class
+com/example/micro/Repository/ForumRepository.class
+com/example/micro/Controller/CommentaireController.class
+com/example/micro/Service/CommentaireService.class
+com/example/micro/classes/Forum.class
+com/example/micro/Service/IForumService.class
+com/example/micro/Service/ICommentaireService.class
+com/example/micro/MicroApplication.class
+com/example/micro/Controller/ForumController.class
+com/example/micro/Repository/CommentaireRepository.class

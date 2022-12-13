@@ -1,0 +1,11 @@
+com/example/micro/Repository/CategorieRepository.class
+com/example/micro/Controller/CategorieController.class
+com/example/micro/classes/Categorie.class
+com/example/micro/Service/IproduitService.class
+com/example/micro/Service/ProduitService.class
+com/example/micro/Service/CategorieService.class
+com/example/micro/Service/IcategorieService.class
+com/example/micro/Repository/ProduitRepository.class
+com/example/micro/classes/Produit.class
+com/example/micro/MicroApplication.class
+com/example/micro/Controller/ProduitController.class
