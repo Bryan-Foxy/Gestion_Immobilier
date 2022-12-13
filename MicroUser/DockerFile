@@ -1,0 +1,4 @@
+FROM java:8
+EXPOSE 8090
+ADD /target/User-0.0.1-SNAPSHOT.war User.jar
+ENTRYPOINT["java", "-jar", "/User.jar"]

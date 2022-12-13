@@ -12,14 +12,14 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping(value = "/api/users")
 public class UserRestAPI {
     private String title = "Hello, I'm the user Microservice";
-    @Autowired
-    private UserService userService;
+    //@Autowired
+    //private UserService userService;
     @RequestMapping("/hello")
     public String sayHello(){
         System.out.println(title);
         return title;
     }
-    @PostMapping
+    /*@PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public ResponseEntity<User> createUser(@RequestBody User user) {
         return new ResponseEntity<>(userService.addUser(user), HttpStatus.OK);
@@ -34,5 +34,5 @@ public class UserRestAPI {
     @ResponseStatus(HttpStatus.OK)
     public ResponseEntity<String> deleteCandidat(@PathVariable(value = "id") int id){
         return new ResponseEntity<>(userService.deleteUser(id), HttpStatus.OK);
-    }
+    }*/
 }
