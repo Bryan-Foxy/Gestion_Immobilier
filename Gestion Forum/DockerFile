@@ -1,0 +1,4 @@
+FROM Java:8
+EXPOSE 8089
+ADD /target/micro-0.0.1-SNAPSHOT.war micro.jar
+ENTRYPOINT ["java", "-jar","/micro.jar"]
